@@ -2,10 +2,10 @@
 
 # Prédiction de Défauts de Paiement - Projet R
 
-Projet réalisé en **R** dans le cadre du cours d’**Informatique Décisionnelle** en **Licence 3 Intelligence Artificielle (L3 IA)** à l’**Université Côte d’Azur**.  
+Projet réalisé en **R** dans le cadre du cours d’**Informatique Décisionnelle** ** à l’**Université Côte d’Azur**.  
 L’objectif est de prédire le **risque de défaut de paiement** de clients bancaires à partir de données financières et démographiques.
 
-This project was developed in **R** as part of the **Business Intelligence** course in the **3rd year of the Artificial Intelligence Bachelor's degree (L3 AI)** at **Université Côte d'Azur**.
+This project was developed in **R** as part of the **Business Intelligence** at **Université Côte d'Azur**.
 The objective is to predict the **risk of default** for bank customers based on financial and demographic data.
 
 ---
